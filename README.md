@@ -31,3 +31,7 @@ Places that leverage the power of plain text.
 - HTTP
 - SMTP
 - IMAP
+
+### Misc
+- CSV
+- TSV
