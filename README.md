@@ -32,6 +32,9 @@ Places that leverage the power of plain text.
 - SMTP
 - IMAP
 
+### Conversion
+- [Pandoc](https://github.com/jgm/pandoc)
+
 ### Misc
 - CSV
 - TSV
