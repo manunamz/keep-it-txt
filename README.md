@@ -6,7 +6,7 @@
 Markup and places that leverage the power of plain text.
 
 ### Formatting
-- [markdown (github flavoured)](https://guides.github.com/features/mastering-markdown/)
+- [markdown](https://github.com/mundimark/awesome-markdown)
 
 ### Math
 - [latex](https://github.com/latex3/)
