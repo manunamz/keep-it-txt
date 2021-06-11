@@ -35,6 +35,7 @@ Markup and places that leverage the power of plain text.
 - [remark](https://github.com/gnab/remark)
 - [slides](https://github.com/prodhe/slides)
 
+- [argdown](https://argdown.org/)
 ---
 
 ## Repeatable Macros
