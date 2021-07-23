@@ -44,14 +44,10 @@ Markup and places that leverage the power of plain text.
 ### Everything
 - [org-mode](https://orgmode.org/)
 
----
-
 ## Repeatable Macros
 
 ### Table of Contents
 - [markdown-toc](https://github.com/jonschlinkert/markdown-toc)
-
----
 
 ## Static Site Generation
 
@@ -60,8 +56,6 @@ Markup and places that leverage the power of plain text.
 - [middleman](https://github.com/middleman/middleman)
 ### API Documentation
 - [Slate](https://github.com/slatedocs/slate)
-
----
 
 ## Script-Like 
 
@@ -73,14 +67,10 @@ Markup and places that leverage the power of plain text.
 ### Manual
 - [mkcli](https://github.com/mkdoc/mkcli)
 
----
-
 ### Conversion
 - [kramdown](https://github.com/gettalong/kramdown)
 - [Pandoc](https://github.com/jgm/pandoc)
 - [word-to-markdown](https://github.com/benbalter/word-to-markdown)
-
----
 
 ### Data Serialization
 - JSON
@@ -94,8 +84,6 @@ Markup and places that leverage the power of plain text.
 - HTTP
 - SMTP
 - IMAP
-
----
 
 ### Other Lists
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown)
