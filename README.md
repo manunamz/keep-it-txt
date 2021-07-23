@@ -12,12 +12,15 @@ Markup and places that leverage the power of plain text.
 ### Formatting
 - [markdown](https://github.com/mundimark/awesome-markdown)
 - [textile](https://textile-lang.com/)
+
 ### Writing / Editing
 - [CriticMarkup](https://github.com/CriticMarkup/CriticMarkup-toolkit/)
 #### Screenplays
 - [Fountain](https://github.com/nyousefi/Fountain)
 ### Math
 - [latex](https://github.com/latex3/)
+### Argumentation Outlining
+- [argdown](https://argdown.org/)
 ### Charts
 - [markvis](https://github.com/geekplux/markvis)
 - [mermaid.js](https://github.com/mermaid-js/mermaid)
@@ -38,7 +41,9 @@ Markup and places that leverage the power of plain text.
 
 ...
 
-- [argdown](https://argdown.org/)
+### Everything
+- [org-mode](https://orgmode.org/)
+
 ---
 
 ## Repeatable Macros
