@@ -11,6 +11,7 @@ Markup and places that leverage the power of plain text.
 
 ### Formatting
 - [markdown](https://github.com/mundimark/awesome-markdown)
+- [textile](https://textile-lang.com/)
 ### Writing / Editing
 - [CriticMarkup](https://github.com/CriticMarkup/CriticMarkup-toolkit/)
 #### Screenplays
