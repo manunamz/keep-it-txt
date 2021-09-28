@@ -1,6 +1,7 @@
 # keep-it-txt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Tip 25 - Keep Knowledge In Plain Text
+> 
 > ~<a target="_blank" href="https://www.amazon.com/gp/product/0135957052/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0135957052&linkCode=as2&tag=short2things-20&linkId=bdde2090bcfb3998e38a000d2e2cfc7a">The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition (2nd Edition)</a>
 
 Markup and places that leverage the power of plain text.
