@@ -83,7 +83,7 @@ The Three Laws influenced by ["CriticMarkup-toolkit"](https://github.com/CriticM
 	- finance
 		- [plain text accounting](https://plaintextaccounting.org/)
 	- presentation
-		- (bespoke)[https://github.com/bespokejs/bespoke]
+		- [bespoke](https://github.com/bespokejs/bespoke)
 			- w/ [markdown-it](https://github.com/fegemo/bespoke-markdownit)
 	- productivity
 		- [org-mode](https://orgmode.org/)
