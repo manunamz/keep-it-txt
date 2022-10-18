@@ -32,6 +32,7 @@ The Three Laws influenced by ["CriticMarkup-toolkit"](https://github.com/CriticM
   - [katex](https://katex.org/)
   	- https://github.com/KaTeX/KaTeX
   - [mermaid.js](https://github.com/mermaid-js/mermaid)
+  - [graphviz](https://graphviz.org/)
   - slides (see `bespoke` below)
   	- ex: [fusuma](https://github.com/hiroppy/fusuma)
   - [CriticMarkup](https://github.com/CriticMarkup/CriticMarkup-toolkit/)
